@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Doshinkyo
+- 👋 Hi,
 - 👀 I’m interested in all things technical
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on stuff
